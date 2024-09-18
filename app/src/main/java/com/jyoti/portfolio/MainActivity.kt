@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
         Handler(Looper.getMainLooper()).postDelayed({
-           val intent = Intent(this,Dashboaard::class.java)
+           val intent = Intent(this,Getstarted::class.java)
            startActivity(intent)
            finish()
         }, 3000)
