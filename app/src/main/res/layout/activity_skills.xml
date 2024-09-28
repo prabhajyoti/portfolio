@@ -105,4 +105,18 @@
         app:layout_constraintVertical_bias="0.427"
         app:srcCompat="@drawable/api1" />
 
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="211dp"
+        android:layout_height="56dp"
+        android:text="SOFT SKILLS"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.507"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.543" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
