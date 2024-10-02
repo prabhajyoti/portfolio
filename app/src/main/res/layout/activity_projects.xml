@@ -7,4 +7,36 @@
     android:layout_height="match_parent"
     tools:context=".projects">
 
+    <ImageView
+        android:id="@+id/imageView20"
+        android:layout_width="115dp"
+        android:layout_height="96dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.452"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.105"
+        app:srcCompat="@drawable/butterflykiduniyalogo" />
+
+    <ImageView
+        android:id="@+id/imageView23"
+        android:layout_width="121dp"
+        android:layout_height="116dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/compdellogo" />
+
+    <ImageView
+        android:id="@+id/imageView24"
+        android:layout_width="155dp"
+        android:layout_height="154dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.918"
+        app:srcCompat="@drawable/easystudyutulogo" />
 </androidx.constraintlayout.widget.ConstraintLayout>
