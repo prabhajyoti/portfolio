@@ -9,8 +9,8 @@
 
     <ImageView
         android:id="@+id/imageView20"
-        android:layout_width="79dp"
-        android:layout_height="65dp"
+        android:layout_width="63dp"
+        android:layout_height="54dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.478"
@@ -21,26 +21,26 @@
 
     <ImageView
         android:id="@+id/imageView23"
-        android:layout_width="77dp"
-        android:layout_height="67dp"
+        android:layout_width="65dp"
+        android:layout_height="48dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.431"
+        app:layout_constraintHorizontal_bias="0.439"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.391"
+        app:layout_constraintVertical_bias="0.371"
         app:srcCompat="@drawable/compdellogo" />
 
     <ImageView
         android:id="@+id/imageView24"
-        android:layout_width="78dp"
-        android:layout_height="66dp"
+        android:layout_width="64dp"
+        android:layout_height="59dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.48"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.76"
+        app:layout_constraintVertical_bias="0.723"
         app:srcCompat="@drawable/easystudyutulogo" />
 
     <TextView
@@ -53,10 +53,10 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.452"
+        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.134" />
+        app:layout_constraintVertical_bias="0.12" />
 
     <TextView
         android:id="@+id/textView35"
@@ -72,7 +72,7 @@ world of butterflies."
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.217" />
+        app:layout_constraintVertical_bias="0.2" />
 
     <TextView
         android:id="@+id/textView36"
@@ -83,23 +83,27 @@ world of butterflies."
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.431"
+        app:layout_constraintHorizontal_bias="0.455"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.482" />
+        app:layout_constraintVertical_bias="0.449" />
 
     <TextView
         android:id="@+id/textView37"
-        android:layout_width="359dp"
-        android:layout_height="103dp"
-        android:text="This app is related to Providing Study Stuffs for BTech CSE Students for preparing university exam , this app helps in that problem where students go various platform for study materials but not staisfied so this app ends all problem related to UTU exam"
+        android:layout_width="351dp"
+        android:layout_height="120dp"
+        android:text="
+CompdeL
+CompdeL
+Jul 2023 - Apr 2024Jul 2023 - Apr 2024
+CompdeL is like a food item comparison platform where you Compare with different food platform and order based on your interest through our app"
         android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.608" />
+        app:layout_constraintVertical_bias="0.571" />
 
     <TextView
         android:id="@+id/textView38"
@@ -112,7 +116,7 @@ world of butterflies."
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.825" />
+        app:layout_constraintVertical_bias="0.794" />
 
     <TextView
         android:id="@+id/textView39"
@@ -126,5 +130,5 @@ world of butterflies."
         app:layout_constraintHorizontal_bias="0.29"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.952" />
+        app:layout_constraintVertical_bias="0.945" />
 </androidx.constraintlayout.widget.ConstraintLayout>
