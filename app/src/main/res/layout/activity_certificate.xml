@@ -24,17 +24,17 @@
 
     <TextView
         android:id="@+id/textView41"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="209dp"
+        android:layout_height="73dp"
         android:text="Android Developer License"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.436"
+        app:layout_constraintHorizontal_bias="0.425"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.282" />
+        app:layout_constraintVertical_bias="0.22" />
 
     <TextView
         android:id="@+id/textView42"
@@ -52,8 +52,8 @@
 
     <TextView
         android:id="@+id/textView43"
-        android:layout_width="345dp"
-        android:layout_height="104dp"
+        android:layout_width="338dp"
+        android:layout_height="69dp"
         android:text="placement preparation training program from internshala"
         android:textSize="18sp"
         android:textStyle="bold"
@@ -65,10 +65,11 @@
 
     <TextView
         android:id="@+id/textView44"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="342dp"
+        android:layout_height="69dp"
         android:text="XML course offered by W3Schools.com through IBM."
-
+        android:textSize="18sp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.436"
