@@ -25,10 +25,10 @@
         android:layout_height="67dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.467"
+        app:layout_constraintHorizontal_bias="0.44"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.451"
+        app:layout_constraintVertical_bias="0.448"
         app:srcCompat="@drawable/compdellogo" />
 
     <ImageView
@@ -48,8 +48,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Butterfly ki Duniya"
-        android:textSize="16sp"
+        android:textSize="18sp"
         android:textStyle="bold"
+        android:textColor="#150101"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.451"
@@ -59,8 +60,8 @@
 
     <TextView
         android:id="@+id/textView35"
-        android:layout_width="370dp"
-        android:layout_height="90dp"
+        android:layout_width="359dp"
+        android:layout_height="109dp"
         android:text="Butterfly ki Duniya is an app that lets you explore the fascinating
 world of butterflies through identification, education, and conservation.
 Butterfly ki Duniya is a captivating app that invites you to explore the enchanting
