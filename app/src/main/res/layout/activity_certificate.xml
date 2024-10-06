@@ -80,15 +80,15 @@
 
     <TextView
         android:id="@+id/textView45"
-        android:layout_width="293dp"
-        android:layout_height="111dp"
+        android:layout_width="220dp"
+        android:layout_height="73dp"
         android:text="Android N Application Development"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.864"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.922" />
+        app:layout_constraintVertical_bias="0.855" />
 </androidx.constraintlayout.widget.ConstraintLayout>
