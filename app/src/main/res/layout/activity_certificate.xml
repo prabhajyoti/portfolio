@@ -139,4 +139,16 @@
         app:layout_constraintVertical_bias="0.358"
         app:srcCompat="@drawable/canva" />
 
+    <ImageView
+        android:id="@+id/imageView33"
+        android:layout_width="53dp"
+        android:layout_height="56dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.084"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.211"
+        app:srcCompat="@drawable/oasisinfobyte" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
