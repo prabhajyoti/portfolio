@@ -104,15 +104,4 @@
         app:layout_constraintVertical_bias="0.868"
         app:srcCompat="@drawable/infosys" />
 
-    <ImageView
-        android:id="@+id/imageView29"
-        android:layout_width="56dp"
-        android:layout_height="67dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.048"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.693"
-        app:srcCompat="@drawable/w3schhols" />
 </androidx.constraintlayout.widget.ConstraintLayout>
