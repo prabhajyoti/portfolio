@@ -1,6 +1,7 @@
 package com.jyoti.portfolio
-
+import android.content.Intent
 import android.os.Bundle
+import android.widget.Button
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
@@ -11,10 +12,13 @@ class Getstarted : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_getstarted)
-        ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
-            val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
-            v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
-            insets
+
+        val getstarted = findViewById<Button>(R.id.getstarted)
+
+        getstarted.setOnClickListener { this
+         val Intent = Intent(this, Dashboaard::class.java)
+         startActivity(Intent)
         }
+
     }
 }
