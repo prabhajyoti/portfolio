@@ -37,7 +37,7 @@
         app:layout_constraintVertical_bias="0.285" />
 
     <Button
-        android:id="@+id/button12"
+        android:id="@+id/experience"
         android:layout_width="332dp"
         android:layout_height="60dp"
         android:text="EXPERIENCE"
@@ -52,7 +52,7 @@
         app:layout_constraintVertical_bias="0.425" />
 
     <Button
-        android:id="@+id/button13"
+        android:id="@+id/education"
         android:layout_width="332dp"
         android:layout_height="60dp"
         android:text="EDUCATION"
