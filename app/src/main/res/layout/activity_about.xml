@@ -21,7 +21,7 @@
         app:srcCompat="@drawable/pic1" />
 
     <Button
-        android:id="@+id/button11"
+        android:id="@+id/cv"
         android:layout_width="332dp"
         android:layout_height="60dp"
         android:text="CV"
