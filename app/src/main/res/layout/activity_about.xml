@@ -67,7 +67,7 @@
         app:layout_constraintVertical_bias="0.56" />
 
     <Button
-        android:id="@+id/button14"
+        android:id="@+id/skill"
         android:layout_width="332dp"
         android:layout_height="60dp"
         android:text="SKILL"
@@ -82,7 +82,7 @@
         app:layout_constraintVertical_bias="0.702" />
 
     <Button
-        android:id="@+id/button15"
+        android:id="@+id/projects"
         android:layout_width="332dp"
         android:layout_height="60dp"
         android:text="PROJECTS"
