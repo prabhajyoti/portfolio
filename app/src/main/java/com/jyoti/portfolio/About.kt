@@ -1,6 +1,8 @@
 package com.jyoti.portfolio
 
+import android.content.Intent
 import android.os.Bundle
+import android.widget.Button
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
@@ -12,6 +14,10 @@ class About : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_about)
 
-        val enter = findViewById<>()
+        val experience = findViewById<Button>(R.id.experience)
+        experience.setOnClickListener { this
+        val Intent = Intent(this,experience::class.java)
+        startActivity(Intent)
+        }
     }
 }
