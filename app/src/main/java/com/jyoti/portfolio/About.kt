@@ -12,6 +12,6 @@ class About : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_about)
 
-        vale
+        val enter = findViewById<>()
     }
 }
