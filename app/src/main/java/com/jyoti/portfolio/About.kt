@@ -20,4 +20,5 @@ class About : AppCompatActivity() {
         startActivity(Intent)
         }
     }
+    
 }
