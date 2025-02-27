@@ -55,12 +55,12 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.603"
+        app:layout_constraintHorizontal_bias="0.623"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
 
 
-        app:layout_constraintVertical_bias="0.918" />
+        app:layout_constraintVertical_bias="0.895" />
 
     <TextView
         android:id="@+id/textView7"
